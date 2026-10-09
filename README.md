@@ -27,6 +27,8 @@ Based in Varanasi, India. MCA from KIIT.
   <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" alt="HTML, CSS, JavaScript, Java" />
 </p>
 
+**AI tools I use:** <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" align="center" />
+
 ---
 
 ### 🚀 Featured projects
