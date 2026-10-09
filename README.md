@@ -24,10 +24,8 @@ Based in Varanasi, India. MCA from KIIT.
 ### 🛠️ My stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nextjs,php,mysql&theme=dark" alt="HTML, CSS, JavaScript, Java, Python, React, Next.js, PHP, SQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" alt="HTML, CSS, JavaScript, Java" />
 </p>
-
-**Also:** UI/UX design · Convex · Clerk · Gemini API
 
 ---
 
